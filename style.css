@@ -1,0 +1,62 @@
+* {
+    margin: 3px;
+    padding-bottom: 10px;
+}
+img{
+    height: 300px;
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+figcaption{
+    color: gray;
+}
+
+
+p{
+    width: 550px;
+}
+
+footer{
+    font-size: 0.95rem;
+    color: gray;
+}
+table, th, td{
+    text-align: center;
+    border: 1px solid gray;
+}
+
+table {
+    width: 550px;
+    padding-bottom: 0;
+    margin-bottom: 20px;
+}
+
+nav{
+    font-size: 1.25em;
+    display: inline;
+}
+nav a{
+    padding-right: 10px;
+}
+
+a:visited{
+    color: palevioletred;
+}
+a:hover{
+    color: paleturquoise;
+}
+
+.submit{
+    font-size: 1.3em;
+}
+.submit:hover{
+    color: palevioletred;
+}
+
+textarea{
+    font-family: monospace;
+    font-size: 1.1em;
+    color: gray;
+}
